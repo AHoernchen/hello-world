@@ -8,3 +8,5 @@ AHoernchen: Don't hurt your back!
 AHoernchen: And always lift with your knees!
 
 BHoernchen: We've heard that before'
+
+AHoernchen: But it's something you should always remember'
