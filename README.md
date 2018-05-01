@@ -12,3 +12,5 @@ BHoernchen: We've heard that before'
 AHoernchen: But it's something you should always remember'
 
 BHoernchen: jaja
+
+AHoernchen: Schickimicki könnt Ihr zuhus maache
